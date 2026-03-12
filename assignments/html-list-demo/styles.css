@@ -1,0 +1,96 @@
+/* style.css */
+/* style.css */
+body {
+    background-color: #121a16; /* Deep Night Green */
+    color: #e8eed2; /* Pale Moss */
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.05em;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    line-height: 1.7;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 2px solid #3c5249;
+    padding-bottom: 12px;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 35px;
+    color: #a4bfa6;
+}
+
+.tagline {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #8caba1;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.intro {
+    font-size: 1.15em;
+    margin-bottom: 30px;
+}
+
+/* Added this to size your logo properly! */
+.site-logo {
+    max-width: 250px; 
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid #3c5249;
+    margin: 20px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+ul, ol {
+    background-color: #1b2621;
+    padding: 25px 25px 25px 45px;
+    border-radius: 6px;
+    border-left: 4px solid #3c5249;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+li > ul, li > ol {
+    background-color: transparent;
+    padding: 10px 10px 10px 25px;
+    border: none;
+    margin-top: 5px;
+}
+
+strong {
+    color: #ffffff;
+}
+
+footer {
+    margin-top: 60px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #6a8a7c;
+    border-top: 1px solid #2a3a33;
+    padding-top: 25px;
+}

@@ -1,0 +1,18 @@
+I want to build a web page for a recipe. I don't know how to code, so I need you to provide the code for me.First, write the HTML code for a web page that includes the following:
+
+* A header that includes my logo (using the file "rr-logo-2.jpg"), the site title "RidgeRelay Survival Kitchen", and the tagline "Fueling your wildest pursuits." 
+
+* A main element that starts with the page title "Campfire-Seared Wild Venison" and is followed by this introductory text: "There is nothing quite like the reward of a hot, wild-foraged meal after a grueling backcountry hike. Whether you're recovering from the elevation gain of the Mount Si trail or settling in for the night near the freezing, pristine waters of Snow Lake, this venison recipe utilizes local, hand-picked Douglas fir tips and wild mint to bring the taste of the deep woods straight to your campfire skillet." An image tag directly after the introduction using the file "venison-skillet.jpg".Generate the HTML code for a bulleted list with the items below. 
+Use an Evergreen Tree emoji as the bullet. Include the following items, using a nested bulleted list to categorize them:The Meat1 lb wild venison backstrap, at ambient temperatureThe Foraged Rub2 tbsp fresh Douglas fir tips, finely chopped1 tbsp wild field mint, minced1 tbsp coarse sea salt1 tsp crushed juniper berries
+
+* Generate the HTML code for a numbered list with the recipe steps below. Use lower roman as the numbering style for the nested numbered lists.Prepare the Fire:Build a sustainable, hot hardwood campfire.Let the wood burn down for 45 minutes until you have glowing, white-hot coals.Prepare the Venison:Mix the chopped Douglas fir tips, wild mint, sea salt, and juniper to create your dry rub.Generously massage the rub into all sides of the backstrap.The Sear:Place your cast-iron skillet directly onto the hot coals until lightly smoking.Sear the venison for 3 to 4 minutes per side for a perfect medium-rare.The Rest:Remove from the heat and let the meat rest on a flat stone or cutting board for 10 minutes.Slice thinly against the grain before serving.
+
+* A footer that includes a copyright notice: "© 2026 RidgeRelay". Second, in a separate file please write the CSS code for the following:
+
+* The page background color should be #121a16 and the text color should be #e8eed2.
+
+* Use these type sizes: 2.5em for the site title, 1.2em for the tagline, 2em for the page title, and 1.05em for the page text.
+
+* Use the Google Font "Merriweather" for headings and "Roboto" for regular page text.
+
+* Set a maximum width for the page to 800 px.Create a rule to limit the max-width of the site logo to 250px so it doesn't take up the whole screen.

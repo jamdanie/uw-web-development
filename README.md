@@ -1,107 +1,130 @@
-🌐 T INFO 230 – Web Development Coursework
-University of Washington Tacoma
+# 🌐 T INFO 230 — Web Development Coursework
+### University of Washington Tacoma
 
-This repository contains assignments and projects completed for T INFO 230: Web Development.
+This repository contains assignments and projects completed for **T INFO 230: Web Development**.
 
-The work focuses on foundational front-end development concepts including HTML structure, CSS styling, layout techniques, and multi-page website design.
+The work focuses on foundational front-end development concepts including:
 
-These exercises serve as the foundation for later work in full-stack development, information systems, and modern web applications.
+- HTML document structure
+- CSS styling and layout
+- multi-page website design
+- structured content organization
 
-📚 Topics Covered
+These exercises form the foundation for later work in **full-stack development, information systems, and modern web applications**.
+
+---
+
+# 🌐 Live Assignment Demos
+
+| Assignment | Live Demo |
+|-----------|-----------|
+| Hello World | https://jamdanie.github.io/uw-web-development/assignments/hello-world/ |
+| Personal Webpage | https://jamdanie.github.io/uw-web-development/assignments/personal-webpage/ |
+| Hobby Website | https://jamdanie.github.io/uw-web-development/assignments/hobby-website/ |
+| Information Website | https://jamdanie.github.io/uw-web-development/assignments/information-website/ |
+| Book Club | https://jamdanie.github.io/uw-web-development/assignments/book-club/ |
+| HTML List Demo | https://jamdanie.github.io/uw-web-development/assignments/html-list-demo/ |
+| Fitness Website | https://jamdanie.github.io/uw-web-development/assignments/fitness-website/ |
+| Pun Site | https://jamdanie.github.io/uw-web-development/assignments/pun-site/ |
+
+Click any link above to view the assignment.
+
+---
+
+# 📚 Topics Covered
 
 The assignments in this repository explore fundamental web development concepts such as:
 
-• HTML document structure
-• Multi-page website navigation
-• CSS styling and layout
-• Image and media integration
-• Static website organization
-• Semantic HTML practices
-• Basic web accessibility considerations
+- HTML document structure
+- multi-page website navigation
+- external CSS styling
+- basic layout and formatting techniques
+- image and media integration
+- semantic HTML practices
+- static website organization
+- basic accessibility considerations
 
-🧩 Assignments
-Project	Description
-hello-world	First HTML page demonstrating basic document structure
-personal-webpage	Personal webpage introducing layout and styling
-hobby-website	Multi-page site describing a personal hobby
-information-website	Informational website with structured content
-book-club	Themed multi-page website project
-pun-site	Small creative website exercise
-html-list-demo	Example page demonstrating HTML lists
-fitness-website	Simple website focused on a fitness topic
-⚙️ Core Technologies
+---
 
-Technologies directly used within these assignments:
+# ⚙️ Core Technologies
 
-• HTML5
-• CSS3
-• Static website layout techniques
-• Browser developer tools for debugging
-• Git version control
+Technologies directly used in these assignments:
 
-🛠 Development Tools
+- **HTML5**
+- **CSS3**
+- static website layout techniques
+- browser developer tools for debugging
+- Git version control
 
-Projects were created using common development tools including:
+---
 
-• Visual Studio Code
-• Git
-• GitHub
-• Chrome / Edge Developer Tools
+# 🛠 Development Tools
 
-🤖 AI & LLM Assisted Development
+Projects were developed using common tools including:
 
-Some assignments incorporated the use of large language models (LLMs) as learning aids for:
+- **Visual Studio Code**
+- **Notepad++**
+- **Git**
+- **GitHub**
+- Chrome / Edge Developer Tools
 
-• generating example content
-• exploring HTML structure ideas
-• creating structured lists
-• understanding code concepts
+These tools were used for editing code, debugging layout issues, managing version control, and hosting projects online.
+
+---
+
+# 🤖 AI & LLM Assisted Development
+
+Some assignments incorporated the use of **large language models (LLMs)** as learning aids.
 
 Tools used during experimentation include:
 
-• ChatGPT
-• Google Gemini
-• GitHub Copilot
+- **ChatGPT**
+- **Google Gemini**
+- **GitHub Copilot**
 
-These tools were used to support learning and exploration, not replace understanding of the underlying technologies.
+These tools helped with:
 
-🧠 Learning Ecosystem
+- generating example content
+- exploring HTML structure ideas
+- creating structured lists
+- reviewing markup and formatting
+- understanding front-end development concepts
 
-Although this repository focuses on introductory front-end development, the skills developed here support learning in areas such as:
+All final implementation and debugging were completed manually.
 
-• JavaScript development
-• Node.js environments
-• ASP.NET / ASP.NET Core web applications
-• REST APIs
-• Database-backed applications
-• Cloud hosted web services
+---
 
-These assignments represent the starting point for building full-stack web development skills.
+# 🎯 Purpose
 
-🎯 Purpose
-
-This repository documents early coursework and demonstrates the progression of foundational web development skills.
+This repository documents early coursework and demonstrates the progression of **foundational web development skills**.
 
 The projects serve as building blocks toward more advanced topics including:
 
-• dynamic web applications
-• backend service development
-• modern UI frameworks
-• information systems design
+- responsive design
+- JavaScript interactivity
+- dynamic web applications
+- full-stack development
 
-📁 Repository Structure
+---
+
+# 📁 Repository Structure
+
+
 uw-web-development
 │
 ├── assignments
-│   ├── hello-world
-│   ├── personal-webpage
-│   ├── hobby-website
-│   ├── information-website
-│   ├── book-club
-│   ├── pun-site
-│   ├── html-list-demo
-│   └── fitness-website
+│ ├── hello-world
+│ ├── personal-webpage
+│ ├── hobby-website
+│ ├── information-website
+│ ├── book-club
+│ ├── html-list-demo
+│ ├── fitness-website
+│ └── pun-site
 │
 └── README.md
 
-✨ This repository represents early web development practice and serves as a foundation for more advanced software and web engineering coursework.
+
+---
+
+This repository represents **early front-end development practice and coursework

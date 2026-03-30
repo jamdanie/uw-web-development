@@ -107,7 +107,7 @@ The projects serve as building blocks toward more advanced topics including:
 
 ---
 
-# 📁 Repository Structure
+# 📁 Repository Structure 
 
 
 uw-web-development

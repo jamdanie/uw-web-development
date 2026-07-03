@@ -29,7 +29,7 @@ These exercises form the foundation for later work in **full-stack development, 
 
 Click any link above to view the assignment.
 
----
+--- 
 
 # 📚 Topics Covered
 

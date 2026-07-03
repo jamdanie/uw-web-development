@@ -5,7 +5,7 @@ This repository contains assignments and projects completed for **T INFO 230: We
 
 The work focuses on foundational front-end development concepts including:
  
-- HTML document structure
+- HTML document structure 
 - CSS styling and layout 
 - multi-page website design 
 - structured content organization

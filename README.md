@@ -24,7 +24,7 @@ These exercises form the foundation for later work in **full-stack development, 
 | Information Website | https://jamdanie.github.io/uw-web-development/assignments/information-website/ |
 | Book Club | https://jamdanie.github.io/uw-web-development/assignments/book-club/ |
 | HTML List Demo | https://jamdanie.github.io/uw-web-development/assignments/html-list-demo/ |
-| Fitness Website | https://jamdanie.github.io/uw-web-development/assignments/fitness-website/ |
+| Fitness Website | https://jamdanie.github.io/uw-web-development/assignments/fitness-website/ | 
 | Pun Site | https://jamdanie.github.io/uw-web-development/assignments/pun-site/ |
 
 Click any link above to view the assignment.

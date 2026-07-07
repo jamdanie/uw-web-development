@@ -21,7 +21,7 @@ These exercises form the foundation for later work in **full-stack development, 
 | Hello World | https://jamdanie.github.io/uw-web-development/assignments/hello-world/ |
 | Personal Webpage | https://jamdanie.github.io/uw-web-development/assignments/personal-webpage/ |
 | Hobby Website | https://jamdanie.github.io/uw-web-development/assignments/hobby-website/ |
-| Information Website | https://jamdanie.github.io/uw-web-development/assignments/information-website/ |
+| Information Website | https://jamdanie.github.io/uw-web-development/assignments/information-website/ | 
 | Book Club | https://jamdanie.github.io/uw-web-development/assignments/book-club/ |
 | HTML List Demo | https://jamdanie.github.io/uw-web-development/assignments/html-list-demo/ |
 | Fitness Website | https://jamdanie.github.io/uw-web-development/assignments/fitness-website/ | 

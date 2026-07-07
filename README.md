@@ -43,7 +43,7 @@ The assignments in this repository explore fundamental web development concepts 
 - semantic HTML practices
 - static website organization
 - basic accessibility considerations
-
+  
 ---
 
 # ⚙️ Core Technologies

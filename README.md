@@ -32,7 +32,7 @@ Click any link above to view the assignment.
 ---  
 
 # 📚 Topics Covered
-
+ 
 The assignments in this repository explore fundamental web development concepts such as:
 
 - HTML document structure

@@ -50,7 +50,7 @@ The assignments in this repository explore fundamental web development concepts 
 
 Technologies directly used in these assignments:
 
-- **HTML5**
+- **HTML5**  
 - **CSS3**
 - static website layout techniques
 - browser developer tools for debugging

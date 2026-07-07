@@ -38,7 +38,7 @@ The assignments in this repository explore fundamental web development concepts 
 - HTML document structure
 - multi-page website navigation
 - external CSS styling
-- basic layout and formatting techniques
+- basic layout and formatting techniques 
 - image and media integration
 - semantic HTML practices
 - static website organization

@@ -14,7 +14,7 @@ These exercises form the foundation for later work in **full-stack development, 
   
 ---      
       
-# 🌐 Live Assignment Demos   
+# 🌐 Live Assignment Demos    
   
 | Assignment | Live Demo |  
 |-----------|-----------|

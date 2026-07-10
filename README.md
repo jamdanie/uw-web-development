@@ -7,7 +7,7 @@ The work focuses on foundational front-end development concepts including:
  
 - HTML document structure  
 - CSS styling and layout 
-- multi-page website design 
+- multi-page website design  
 - structured content organization
 
 These exercises form the foundation for later work in **full-stack development, information systems, and modern web applications**.  

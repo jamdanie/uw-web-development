@@ -15,7 +15,7 @@ These exercises form the foundation for later work in **full-stack development, 
 ---     
     
 # 🌐 Live Assignment Demos   
-
+ 
 | Assignment | Live Demo |  
 |-----------|-----------|
 | Hello World | https://jamdanie.github.io/uw-web-development/assignments/hello-world/ |

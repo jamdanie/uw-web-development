@@ -13,7 +13,7 @@ The work focuses on foundational front-end development concepts including:
 These exercises form the foundation for later work in **full-stack development, information systems, and modern web applications**.  
   
 ---      
-     
+      
 # 🌐 Live Assignment Demos   
   
 | Assignment | Live Demo |  
